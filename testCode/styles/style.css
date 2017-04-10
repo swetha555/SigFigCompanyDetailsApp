@@ -1,0 +1,88 @@
+body{
+  font-size: 0.8rem;
+}
+h4{
+  color: black;
+}
+ul{
+ list-style: none;
+ padding: 10px;
+}
+ul h4{
+  font-size: 0.8rem;
+}
+
+ul p{
+  font-size: 0.7rem;
+  font-weight: 400;
+  line-height: 0.0;
+  color: #292b2c;
+
+}
+button{
+  background-color: inherit;
+  border:1px #eee solid;
+  border-radius: 4px;
+}
+.main-wrapper {
+  width:80%;
+  margin:0 auto;
+  margin-top:20px;
+}
+
+.page-wrapper{
+  background:#fff;
+}
+
+
+.header-container {
+  border-bottom:1px #f1f1f1 solid;
+
+}
+.border-define{
+  border:2px #eee solid;
+  border-radius: 4px;
+  margin:10px 0px 10px 0px;;
+  padding:0px;
+}
+.margin-bottom{
+	margin-bottom: 10px;
+}
+.header-main{
+	height: 50px;
+  padding: 11px;
+  background-color: #f1f1f1;
+  font-size: 1.2rem;
+  color: black;
+}
+.header-child{
+ height: 50px;
+ padding: 13px 11px 11px 11px;
+ background-color: #f1f1f1;
+ font-size: 1.2rem;
+ color: black;
+ margin-bottom: 0px;
+}
+.panel-wrapper{
+ border: 2px solid #f1f1f1;
+ border-radius: 4px;
+}
+.short-height{
+  height:50px;
+}
+.list-style{
+  list-style-type: disc;
+  padding-left: 40px; 
+}
+
+.header-content{
+  color:#0275d8;
+  padding-top: 20px;
+}
+.form-style{
+ padding: 10px;
+}
+
+.form-control {
+  font-size: 0.7rem;
+}
